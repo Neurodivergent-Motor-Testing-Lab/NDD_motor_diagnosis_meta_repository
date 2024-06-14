@@ -1,0 +1,9 @@
+[submodule "NDD_motor_diagnosis_deep_learning"]
+	path = NDD_motor_diagnosis_deep_learning
+	url = git@github.com:Neurodivergent-Motor-Testing-Lab/NDD_motor_diagnosis_deep_learning.git
+[submodule "NDD_motor_diagnosis_matlab"]
+	path = NDD_motor_diagnosis_matlab
+	url = git@github.com:Neurodivergent-Motor-Testing-Lab/NDD_motor_diagnosis_matlab.git
+[submodule "NDD_motor_diagnosis_subject_data"]
+	path = NDD_motor_diagnosis_subject_data
+	url = git@github.com:Neurodivergent-Motor-Testing-Lab/NDD_motor_diagnosis_subject_data.git
